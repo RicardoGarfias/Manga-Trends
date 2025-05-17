@@ -1,0 +1,5 @@
+selenium~=4.31.0
+pandas~=2.2.3
+mysql~=0.0.3
+mysql-connector-python~=9.3.0
+beautifulsoup4~=4.13.4
