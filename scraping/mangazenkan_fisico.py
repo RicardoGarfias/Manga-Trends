@@ -44,7 +44,7 @@ def extraer_mangas_fisicos():
                 "editorial": celdas[3].text.strip(),
                 "ventas": celdas[4].text.strip().replace(",", ""),
                 "formato": "Físico",
-                "año": 2024
+                "año": 2023
             })
 
     df = pd.DataFrame(datos)
