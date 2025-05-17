@@ -49,7 +49,7 @@ def extraer_mangas_fisicos():
 
     df = pd.DataFrame(datos)
     df.to_csv("data/raw/manga_fisico_2024.csv", index=False, encoding="utf-8-sig")
-    print("✅ CSV guardado: manga_fisico_2024.csv")
+    print(" CSV guardado: manga_fisico_2024.csv")
     return df
 
 # PASO C: Ejecutar script
