@@ -1,0 +1,111 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap">
+    <title>Manga Trends</title>
+    <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64," />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <style>
+      body {
+        font-family: 'Inter', sans-serif;
+      }
+      .filter-btn {
+        @apply bg-[#363636] text-white text-sm font-medium px-4 py-1 rounded-lg hover:bg-[#505050] transition;
+      }
+    </style>
+  </head>
+  <body class="bg-[#1a1a1a] text-white font-sans">
+    <div class="flex min-h-screen">
+      <!-- Sidebar Filtros -->
+      <aside class="w-72 bg-[#121212] p-6 border-r border-[#333]">
+        <h2 class="text-2xl font-bold mb-4">Filtros</h2>
+
+        <section class="mb-6">
+          <h3 class="text-lg font-semibold mb-2">Años</h3>
+          <div class="flex flex-wrap gap-2">
+            <button class="filter-btn">2023</button>
+            <button class="filter-btn">2022</button>
+            <button class="filter-btn">2021</button>
+            <button class="filter-btn">2020</button>
+            <button class="filter-btn">2019</button>
+            <button class="filter-btn">2018</button>
+            <button class="filter-btn">2017</button>
+          </div>
+        </section>
+
+        <section class="mb-6">
+          <h3 class="text-lg font-semibold mb-2">Géneros</h3>
+          <div class="flex flex-wrap gap-2">
+            <button class="filter-btn">Acción</button>
+            <button class="filter-btn">Aventura</button>
+            <button class="filter-btn">Comedia</button>
+            <button class="filter-btn">Drama</button>
+            <button class="filter-btn">Fantasía</button>
+            <button class="filter-btn">Horror</button>
+            <button class="filter-btn">Misterio</button>
+          </div>
+        </section>
+
+        <section class="mb-6">
+          <h3 class="text-lg font-semibold mb-2">Formato</h3>
+          <div class="flex flex-wrap gap-2">
+            <button class="filter-btn">Físico</button>
+            <button class="filter-btn">Digital</button>
+            <button class="filter-btn">Ambos</button>
+          </div>
+        </section>
+
+        <section>
+          <h3 class="text-lg font-semibold mb-2">Editorial</h3>
+          <div class="flex flex-wrap gap-2">
+            <button class="filter-btn">Kodansha</button>
+            <button class="filter-btn">Shueisha</button>
+            <button class="filter-btn">Dark Horse</button>
+            <button class="filter-btn">Seven Seas</button>
+          </div>
+        </section>
+      </aside>
+
+      <!-- Contenido principal -->
+      <main class="flex-1 p-6">
+        <header class="flex items-center justify-between mb-6">
+          <h1 class="text-3xl font-black">MangaTrends</h1>
+          <div class="flex gap-2">
+            <input type="text" placeholder="Buscar título o autor" class="bg-[#2a2a2a] border border-[#444] rounded-lg px-3 py-2 text-sm focus:outline-none" />
+            <button class="bg-[#444] px-4 py-2 rounded-lg text-sm font-bold hover:bg-[#666]">Buscar</button>
+          </div>
+        </header>
+
+        <!-- Aquí insertarás tus dashboards dinámicos -->
+        <section class="grid grid-cols-1 gap-6">
+          <div class="bg-[#222] p-4 rounded-lg shadow">
+            <h2 class="text-xl font-bold mb-2">Ranking de Ventas</h2>
+            <div id="chart-ranking"></div>
+          </div>
+
+          <div class="bg-[#222] p-4 rounded-lg shadow">
+            <h2 class="text-xl font-bold mb-2">Timeline Histórico</h2>
+            <div id="chart-timeline"></div>
+          </div>
+
+          <div class="bg-[#222] p-4 rounded-lg shadow">
+            <h2 class="text-xl font-bold mb-2">Físico vs Digital</h2>
+            <div id="chart-physical-digital"></div>
+          </div>
+
+          <div class="bg-[#222] p-4 rounded-lg shadow">
+            <h2 class="text-xl font-bold mb-2">Distribución por Género</h2>
+            <div id="chart-genres"></div>
+          </div>
+
+          <div class="bg-[#222] p-4 rounded-lg shadow">
+            <h2 class="text-xl font-bold mb-2">Dashboard de Puntaje por Editorial</h2>
+            <iframe src="http://localhost:8050" width="100%" height="500" frameborder="0" class="rounded-lg"></iframe>
+          </div>
+
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
