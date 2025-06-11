@@ -1,4 +1,5 @@
 # MangaTrends Web Dashboard
+https://github.com/user-attachments/assets/ecec7182-8d95-488a-8ca4-3c37a6d79503
 
 Interfaz visual oscura y estilizada con dashboards interactivos sobre el mercado del manga, diseñada con Dash (Plotly), HTML y TailwindCSS.
 
