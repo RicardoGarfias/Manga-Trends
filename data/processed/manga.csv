@@ -1,0 +1,361 @@
+id_manga,Titulo,id_ano,Puntaje,URL,Portada,Volumen_inicio,Volumen_fin,Precio
+1,Ataque de los Titanes,1,4.67,https://www.mangazenkan.com/items/40733/,img/portadas/001_進撃の巨人.jpg,1,2,1100.0
+2,Steel Ball Run,1,5.0,https://www.mangazenkan.com/items/6/,img/portadas/002_STEELBALLRUNスティールボールラン.jpg,1,68,32956.0
+3,One Piece,1,4.8,https://www.mangazenkan.com/items/169/,img/portadas/003_ワンピース ONE PIECE.jpg,1,1,484.0
+4,Kuroko no Basket,1,4.43,https://www.mangazenkan.com/items/4849/,img/portadas/004_黒子のバスケ.jpg,1,1,796.0
+5,Yowamushi Pedal,1,4.69,https://www.mangazenkan.com/items/3625/,img/portadas/005_弱虫ペダル.jpg,1,14,8371.0
+6,Hunter × Hunter,1,4.68,https://www.mangazenkan.com/items/18/,img/portadas/006_HUNTERHUNTER ハンターハンター.jpg,1,19,9196.0
+7,Kingdom,1,4.92,https://www.mangazenkan.com/items/87/,img/portadas/007_キングダム.jpg,1,1,1045.0
+8,JoJo's Bizarre Adventure,1,4.92,https://www.mangazenkan.com/items/4/,img/portadas/008_ジョジョの奇妙な冒険.jpg,1,1,2934.0
+9,Magi,1,4.86,https://www.mangazenkan.com/items/14123/,img/portadas/009_マギ.jpg,1,37,20350.0
+10,Slam Dunk,1,4.89,https://www.mangazenkan.com/items/167/,img/portadas/010_スラムダンクSLAMDUNK.jpg,1,1,1980.0
+11,Hermanos del Espacio (Uchuu Kyoudai),1,4.45,https://www.mangazenkan.com/items/2635/,img/portadas/011_宇宙兄弟.jpg,1,44,37169.0
+12,JoJo's Bizarre Adventure Set,1,5.0,https://www.mangazenkan.com/items/8/,img/portadas/012_ジョジョの奇妙な冒険SET.jpg,1,63,30492.0
+13,JoJo's Bizarre Adventure: Stone Ocean,1,4.0,https://www.mangazenkan.com/items/182/,img/portadas/013_ジョジョストーンオーシャン.jpg,1,63,30492.0
+14,Chihayafuru,1,4.56,https://www.mangazenkan.com/items/3656/,img/portadas/014_ちはやふる.jpg,1,50,27500.0
+15,Terra Formars,1,4.29,https://www.mangazenkan.com/items/100111/,img/portadas/016_テラフォーマーズ.jpg,1,23,17710.0
+16,Yowamushi Pedal,2,4.83,https://www.mangazenkan.com/items/10120490/,img/portadas/001_弱虫ペダル.jpg,1,14,8371.0
+17,Yowamushi Pedal,2,5.0,https://www.mangazenkan.com/items/10120489/,img/portadas/002_弱虫ペダル.jpg,1,14,8371.0
+18,Ataque de los Titanes,2,4.67,https://www.mangazenkan.com/items/40733/,img/portadas/003_進撃の巨人.jpg,1,2,1100.0
+19,Haikyuu!!,2,4.85,https://www.mangazenkan.com/items/102246/,img/portadas/004_ハイキュー.jpg,1,13,11700.0
+20,Tokyo Ghoul,2,4.38,https://www.mangazenkan.com/items/98012/,img/portadas/005_東京喰種トーキョーグール.jpg,1,12,9262.0
+21,Ao Haru Ride,2,5.0,https://www.mangazenkan.com/items/89440/,img/portadas/006_アオハライド.jpg,1,10,4840.0
+22,Ace of Diamond (Daiya no A),2,4.2,https://www.mangazenkan.com/items/314/,img/portadas/007_ダイヤのA ダイヤのエース.jpg,1,34,18524.0
+23,Kuroko no Basket,2,4.43,https://www.mangazenkan.com/items/4849/,img/portadas/008_黒子のバスケ.jpg,1,1,796.0
+24,Hot Road,2,0.0,https://www.mangazenkan.com/items/921/,img/portadas/009_ホットロード.jpg,1,1,748.0
+25,Slam Dunk,2,4.89,https://www.mangazenkan.com/items/167/,img/portadas/010_スラムダンクSLAMDUNK.jpg,1,1,1980.0
+26,One Piece,2,4.8,https://www.mangazenkan.com/items/169/,img/portadas/011_ワンピース ONE PIECE.jpg,1,1,484.0
+27,Hoy no voy al trabajo (Kyou wa Kaisha Yasumimasu),2,4.5,https://www.mangazenkan.com/items/100589/,img/portadas/012_きょうは会社休みます.jpg,1,1,792.0
+28,Kingdom,2,4.92,https://www.mangazenkan.com/items/87/,img/portadas/013_キングダム.jpg,1,1,1045.0
+29,Kounodori: Dr. Stork,2,4.6,https://www.mangazenkan.com/items/10084769/,img/portadas/014_コウノドリ.jpg,1,12,9020.0
+30,Hoozuki no Reitetsu,2,4.67,https://www.mangazenkan.com/items/89348/,img/portadas/015_鬼灯の冷徹.jpg,1,23,18216.0
+31,Kingdom,3,4.92,https://www.mangazenkan.com/items/87/,img/portadas/001_キングダム.jpg,1,1,1045.0
+32,One Punch Man,3,4.43,https://www.mangazenkan.com/items/10051811/,img/portadas/002_ワンパンマン.jpg,1,37,17908.0
+33,Kounodori: Dr. Stork,3,4.6,https://www.mangazenkan.com/items/10084769/,img/portadas/003_コウノドリ.jpg,1,12,9020.0
+34,Blood Blockade Battlefront (Kekkai Sensen),3,5.0,https://www.mangazenkan.com/items/47553/,img/portadas/004_血界戦線.jpg,1,14,7770.0
+35,Prison School (Kangoku Gakuen),3,4.25,https://www.mangazenkan.com/items/91510/,img/portadas/005_監獄学園.jpg,1,5,3762.0
+36,Tokyo Ghoul,3,4.38,https://www.mangazenkan.com/items/98012/,img/portadas/006_東京喰種トーキョーグール.jpg,1,12,9262.0
+37,Yowamushi Pedal,3,4.83,https://www.mangazenkan.com/items/10120490/,img/portadas/007_弱虫ペダル.jpg,1,14,8371.0
+38,Ataque de los Titanes,3,4.67,https://www.mangazenkan.com/items/40733/,img/portadas/008_進撃の巨人.jpg,1,2,1100.0
+39,Haikyuu!!,3,4.85,https://www.mangazenkan.com/items/102246/,img/portadas/009_ハイキュー.jpg,1,13,11700.0
+40,My Love Story!! (Ore Monogatari!!),3,4.69,https://www.mangazenkan.com/items/99141/,img/portadas/010_俺物語.jpg,1,9,4356.0
+41,De las 5 a las 9 (Goji kara Kuji made),3,4.0,https://www.mangazenkan.com/items/46423/,img/portadas/011_5時から9時まで.jpg,1,2,1257.0
+42,Naruto,3,4.57,https://www.mangazenkan.com/items/2/,img/portadas/012_ナルトNARUTO.jpg,1,6,4290.0
+43,Los Siete Pecados Capitales (Nanatsu no Taizai),3,4.12,https://www.mangazenkan.com/items/10060232/,img/portadas/013_七つの大罪.jpg,1,10,7590.0
+44,Gakkou Gurashi! (School-Live!),3,4.0,https://www.mangazenkan.com/items/10052570/,img/portadas/014_がっこうぐらし.jpg,1,12,7909.0
+45,Your Lie in April (Shigatsu wa Kimi no Uso),3,4.57,https://www.mangazenkan.com/items/90804/,img/portadas/015_四月は君の嘘.jpg,1,5,2882.0
+46,Kingdom,4,4.92,https://www.mangazenkan.com/items/87/,img/portadas/001_キングダム.jpg,1,1,1045.0
+47,My Hero Academia (Boku no Hero Academia),4,4.63,https://www.mangazenkan.com/items/10221277/,img/portadas/003_僕のヒーローアカデミア.jpg,1,8,4136.0
+48,El Karma de los Malos (Zenaku no Kuzu),4,4.33,https://www.mangazenkan.com/items/10197550/,img/portadas/004_善悪の屑.jpg,1,15,9988.0
+49,Haikyuu!!,4,4.85,https://www.mangazenkan.com/items/102246/,img/portadas/005_ハイキュー.jpg,1,13,11700.0
+50,Caja de colección To-y 30th Anniversary,4,0.0,https://www.mangazenkan.com/items/10361442/,img/portadas/006_上條淳士先生描き下ろしToy 30th Anniversary Edition収納ボックス.jpg,1,1,3960.0
+51,One Punch Man,4,4.43,https://www.mangazenkan.com/items/10051811/,img/portadas/007_ワンパンマン.jpg,1,37,17908.0
+52,Erased (Boku dake ga Inai Machi),4,4.11,https://www.mangazenkan.com/items/10057059/,img/portadas/008_僕だけがいない街.jpg,1,11,7502.0
+53,Your Lie in April (Shigatsu wa Kimi no Uso),4,4.57,https://www.mangazenkan.com/items/90804/,img/portadas/009_四月は君の嘘.jpg,1,5,2882.0
+54,DAYS,4,3.5,https://www.mangazenkan.com/items/10088535/,img/portadas/010_DAYS デイズ.jpg,1,14,7700.0
+55,Colección Completa de Manga de Shigeru Mizuki,4,0.0,https://www.mangazenkan.com/items/10340327/,img/portadas/011_水木しげる漫画大全集.jpg,1,32,20811.0
+56,Tokyo Ghoul,4,4.38,https://www.mangazenkan.com/items/98012/,img/portadas/012_東京喰種トーキョーグール.jpg,1,12,9262.0
+57,El amor es como el trabajo pero da frutos,4,4.67,https://www.mangazenkan.com/items/10082851/,img/portadas/013_逃げるは恥だが役に立つ.jpg,1,1,1045.0
+58,Mob Psycho 100,4,4.4,https://www.mangazenkan.com/items/106806/,img/portadas/014_モブサイコ100.jpg,1,16,11495.0
+59,Slam Dunk,4,4.89,https://www.mangazenkan.com/items/167/,img/portadas/015_スラムダンクSLAMDUNK.jpg,1,1,1980.0
+60,Chihayafuru,4,4.56,https://www.mangazenkan.com/items/3656/,img/portadas/016_ちはやふる.jpg,1,50,27500.0
+61,Kingdom,5,4.92,https://www.mangazenkan.com/items/87/,img/portadas/001_キングダム.jpg,1,1,1045.0
+62,My Hero Academia (Boku no Hero Academia),5,4.63,https://www.mangazenkan.com/items/10221277/,img/portadas/003_僕のヒーローアカデミア.jpg,1,8,4136.0
+63,"Hayate no Gotoku! (Hayate, mayordomo de combate)",5,5.0,https://www.mangazenkan.com/items/10477239/,img/portadas/004_ハヤテのごとく.jpg,1,31,17424.0
+64,Ataque de los Titanes,5,4.67,https://www.mangazenkan.com/items/40733/,img/portadas/005_進撃の巨人.jpg,1,2,1100.0
+65,Tokyo Ghoul,5,4.38,https://www.mangazenkan.com/items/98012/,img/portadas/006_東京喰種トーキョーグール.jpg,1,12,9262.0
+66,March comes in like a lion (3-gatsu no Lion),5,4.6,https://www.mangazenkan.com/items/2571/,img/portadas/007_特典あり3月のライオン.jpg,1,10,4840.0
+67,Fullmetal Alchemist,5,4.86,https://www.mangazenkan.com/items/662/,img/portadas/008_鋼の錬金術師.jpg,1,15,8558.0
+68,Haikyuu!!,5,4.85,https://www.mangazenkan.com/items/102246/,img/portadas/009_ハイキュー.jpg,1,13,11700.0
+69,Tokyo Ghoul:re,5,4.0,https://www.mangazenkan.com/items/10232573/,img/portadas/010_東京喰種トーキョーグールre.jpg,1,14,8316.0
+70,Slam Dunk,5,4.89,https://www.mangazenkan.com/items/167/,img/portadas/011_スラムダンクSLAMDUNK.jpg,1,1,1980.0
+71,El Caballero del Área (Area no Kishi),5,4.0,https://www.mangazenkan.com/items/10477232/,img/portadas/012_エリアの騎士.jpg,1,4,2112.0
+72,Asahinagu,5,4.5,https://www.mangazenkan.com/items/92729/,img/portadas/013_あさひなぐ.jpg,1,34,20864.0
+73,Hunter × Hunter,5,4.68,https://www.mangazenkan.com/items/18/,img/portadas/014_HUNTERHUNTER ハンターハンター.jpg,1,19,9196.0
+74,Bienvenido al Ballroom (Ballroom e Youkoso),5,4.0,https://www.mangazenkan.com/items/101517/,img/portadas/015_ボールルームへようこそ.jpg,1,4,3201.0
+75,One Piece,5,4.8,https://www.mangazenkan.com/items/169/,img/portadas/016_ワンピース ONE PIECE.jpg,1,1,484.0
+76,My Hero Academia (Boku no Hero Academia),6,4.63,https://www.mangazenkan.com/items/10221277/,img/portadas/001_僕のヒーローアカデミア.jpg,1,8,4136.0
+77,Kingdom,6,4.92,https://www.mangazenkan.com/items/87/,img/portadas/002_キングダム.jpg,1,1,1045.0
+78,Hunter × Hunter,6,4.68,https://www.mangazenkan.com/items/18/,img/portadas/004_HUNTERHUNTER ハンターハンター.jpg,1,19,9196.0
+79,Golden Kamuy,6,4.64,https://www.mangazenkan.com/items/10236737/,img/portadas/005_ゴールデンカムイ.jpg,1,1,1100.0
+80,Banana Fish (Edición conmemorativa BOX),6,4.8,https://www.mangazenkan.com/items/10555131/,img/portadas/006_BANANA FISH バナナフィッシュ 復刻版全巻BOX.jpg,1,1,2860.0
+81,The Promised Neverland,6,4.58,https://www.mangazenkan.com/items/10416431/,img/portadas/007_約束のネバーランド.jpg,1,1,484.0
+82,Haikyuu!!,6,4.85,https://www.mangazenkan.com/items/102246/,img/portadas/008_ハイキュー.jpg,1,13,11700.0
+83,World Trigger,6,4.79,https://www.mangazenkan.com/items/10086768/,img/portadas/009_ワールドトリガー.jpg,1,1,968.0
+84,Los Siete Pecados Capitales (Nanatsu no Taizai),6,4.12,https://www.mangazenkan.com/items/10060232/,img/portadas/010_七つの大罪.jpg,1,10,7590.0
+85,One Piece,6,4.8,https://www.mangazenkan.com/items/169/,img/portadas/011_ワンピース ONE PIECE.jpg,1,1,484.0
+86,¡Desde hoy soy yo! (Kyou kara Ore wa!!),6,4.33,https://www.mangazenkan.com/items/51814/,img/portadas/013_今日から俺は.jpg,1,18,14706.0
+87,Cells at Work! (Hataraku Saibou),6,4.25,https://www.mangazenkan.com/items/10278788/,img/portadas/014_はたらく細胞.jpg,1,1,1045.0
+88,Tokyo Ghoul:re,6,4.0,https://www.mangazenkan.com/items/10232573/,img/portadas/015_東京喰種トーキョーグールre.jpg,1,14,8316.0
+89,Slam Dunk,6,4.89,https://www.mangazenkan.com/items/167/,img/portadas/016_スラムダンクSLAMDUNK.jpg,1,1,1980.0
+90,That Time I Got Reincarnated as a Slime,6,4.75,https://www.mangazenkan.com/items/10306467/,img/portadas/017_転生したらスライムだった件.jpg,1,28,21043.0
+91,Demon Slayer (Kimetsu no Yaiba),7,4.78,https://www.mangazenkan.com/items/10360560/,img/portadas/001_鬼滅の刃.jpg,1,1,484.0
+92,Kingdom,7,4.92,https://www.mangazenkan.com/items/87/,img/portadas/002_キングダム.jpg,1,1,1045.0
+93,Las Quintillizas (Go-Toubun no Hanayome),7,4.67,https://www.mangazenkan.com/items/10510975/,img/portadas/003_五等分の花嫁.jpg,1,14,10780.0
+94,The Promised Neverland,7,4.58,https://www.mangazenkan.com/items/10416431/,img/portadas/004_約束のネバーランド.jpg,1,1,484.0
+95,My Hero Academia (Boku no Hero Academia),7,4.63,https://www.mangazenkan.com/items/10221277/,img/portadas/005_僕のヒーローアカデミア.jpg,1,8,4136.0
+96,Kaguya-sama: Love is War,7,4.67,https://www.mangazenkan.com/items/10341030/,img/portadas/006_かぐや様は告らせたい 天才たちの恋愛頭脳戦.jpg,1,4,2640.0
+97,Demon Slayer (Kimetsu no Yaiba) – Set,7,5.0,https://www.mangazenkan.com/items/10775675/,img/portadas/007_鬼滅の刃セット.jpg,1,1,1689.0
+98,One Punch Man,7,4.43,https://www.mangazenkan.com/items/10051811/,img/portadas/009_ワンパンマン.jpg,1,37,17908.0
+99,Ataque de los Titanes,7,4.67,https://www.mangazenkan.com/items/40733/,img/portadas/010_進撃の巨人.jpg,1,2,1100.0
+100,Dr. Stone,7,4.62,https://www.mangazenkan.com/items/10481171/,img/portadas/011_ドクターストーン DrSTONE.jpg,1,2,1540.0
+101,One Piece,7,4.8,https://www.mangazenkan.com/items/169/,img/portadas/012_ワンピース ONE PIECE.jpg,1,1,484.0
+102,Demon Slayer Fanbook: Kisatsutai Kenbunroku,7,4.25,https://www.mangazenkan.com/items/10724728/,img/portadas/013_鬼滅の刃 公式ファンブック鬼殺隊見聞録.jpg,1,23,11154.0
+103,Haikyuu!!,7,4.85,https://www.mangazenkan.com/items/102246/,img/portadas/014_ハイキュー.jpg,1,13,11700.0
+104,Fire Force (En'en no Shouboutai),7,4.78,https://www.mangazenkan.com/items/10331242/,img/portadas/015_炎炎ノ消防隊.jpg,1,34,20361.0
+105,Golden Kamuy,7,4.64,https://www.mangazenkan.com/items/10236737/,img/portadas/016_ゴールデンカムイ.jpg,1,1,1100.0
+106,Demon Slayer (Kimetsu no Yaiba),8,4.78,https://www.mangazenkan.com/items/10360560/,img/portadas/001_鬼滅の刃.jpg,1,1,484.0
+107,Kingdom,8,4.92,https://www.mangazenkan.com/items/87/,img/portadas/002_キングダム.jpg,1,1,1045.0
+108,Jujutsu Kaisen,8,4.82,https://www.mangazenkan.com/items/10713354/,img/portadas/003_呪術廻戦.jpg,1,2,1540.0
+109,My Hero Academia (Boku no Hero Academia),8,4.63,https://www.mangazenkan.com/items/10221277/,img/portadas/004_僕のヒーローアカデミア.jpg,1,8,4136.0
+110,Haikyuu!!,8,4.85,https://www.mangazenkan.com/items/102246/,img/portadas/005_ハイキュー.jpg,1,13,11700.0
+111,Fire Force (En'en no Shouboutai),8,4.78,https://www.mangazenkan.com/items/10331242/,img/portadas/006_炎炎ノ消防隊.jpg,1,34,20361.0
+112,The Promised Neverland,8,4.58,https://www.mangazenkan.com/items/10416431/,img/portadas/007_約束のネバーランド.jpg,1,1,484.0
+113,Las Quintillizas (Go-Toubun no Hanayome),8,4.67,https://www.mangazenkan.com/items/10510975/,img/portadas/008_五等分の花嫁.jpg,1,14,10780.0
+114,Dr. Stone,8,4.62,https://www.mangazenkan.com/items/10481171/,img/portadas/009_ドクターストーン DrSTONE.jpg,1,2,1540.0
+115,Slam Dunk (Nueva edición recopilatoria),8,5.0,https://www.mangazenkan.com/items/10582804/,img/portadas/010_スラムダンク SLAM DUNK 新装再編版.jpg,1,1,1980.0
+116,El Barco de Teseo (Theseus no Fune),8,3.5,https://www.mangazenkan.com/items/10503579/,img/portadas/011_テセウスの船.jpg,1,10,7260.0
+117,Demon Slayer Fanbook: Kisatsutai Kenbunroku,8,4.25,https://www.mangazenkan.com/items/10724728/,img/portadas/012_鬼滅の刃 公式ファンブック鬼殺隊見聞録.jpg,1,23,11154.0
+118,Slam Dunk,8,4.89,https://www.mangazenkan.com/items/167/,img/portadas/013_スラムダンクSLAMDUNK.jpg,1,1,1980.0
+119,Ataque de los Titanes,8,4.67,https://www.mangazenkan.com/items/40733/,img/portadas/014_進撃の巨人.jpg,1,2,1100.0
+120,"Rent-a-Girlfriend (Kanojo, Okarishimasu)",8,4.0,https://www.mangazenkan.com/items/10510971/,img/portadas/015_彼女お借りします.jpg,1,40,21692.0
+121,Tokyo Revengers,9,4.89,https://www.mangazenkan.com/items/10461379/,img/portadas/001_東京卍リベンジャーズ.jpg,1,3,2893.0
+122,Demon Slayer (Kimetsu no Yaiba),9,4.78,https://www.mangazenkan.com/items/10360560/,img/portadas/002_鬼滅の刃.jpg,1,1,484.0
+123,Jujutsu Kaisen,9,4.82,https://www.mangazenkan.com/items/10713354/,img/portadas/003_呪術廻戦.jpg,1,2,1540.0
+124,Ataque de los Titanes (Set con caja especial),9,4.5,https://www.mangazenkan.com/items/11047588/,img/portadas/004_進撃の巨人  オリジナル収納BOX付セット.jpg,1,34,20317.0
+125,My Hero Academia (Boku no Hero Academia),9,4.63,https://www.mangazenkan.com/items/10221277/,img/portadas/005_僕のヒーローアカデミア.jpg,1,8,4136.0
+126,Slam Dunk (Nueva edición recopilatoria),9,5.0,https://www.mangazenkan.com/items/10582804/,img/portadas/006_スラムダンク SLAM DUNK 新装再編版.jpg,1,1,1980.0
+127,Cells at Work! (Hataraku Saibou),9,4.25,https://www.mangazenkan.com/items/10278788/,img/portadas/007_はたらく細胞.jpg,1,1,1045.0
+128,No lo llames misterio (Mystery to Iu Nakare),9,4.5,https://www.mangazenkan.com/items/10540354/,img/portadas/008_ミステリと言う勿れ.jpg,1,15,8470.0
+129,World Trigger,9,4.79,https://www.mangazenkan.com/items/10086768/,img/portadas/009_ワールドトリガー.jpg,1,1,968.0
+130,The Fable (con caja de colección),9,5.0,https://www.mangazenkan.com/items/10876935/,img/portadas/010_ザファブル  南勝久先生描き下ろし第一部全巻収納BOX付.jpg,1,22,18392.0
+131,That Time I Got Reincarnated as a Slime (con caja),9,0.0,https://www.mangazenkan.com/items/11024116/,img/portadas/011_転生したらスライムだった件  オリジナル収納BOX付セット.jpg,1,28,21043.0
+132,Haikyuu!!,9,4.85,https://www.mangazenkan.com/items/102246/,img/portadas/012_ハイキュー.jpg,1,13,11700.0
+133,Dr. Stone,9,4.62,https://www.mangazenkan.com/items/10481171/,img/portadas/013_ドクターストーン DrSTONE.jpg,1,2,1540.0
+134,Chainsaw Man,9,4.58,https://www.mangazenkan.com/items/10679487/,img/portadas/014_チェンソーマン.jpg,1,20,10164.0
+135,Slam Dunk,9,4.89,https://www.mangazenkan.com/items/167/,img/portadas/015_スラムダンクSLAMDUNK.jpg,1,1,1980.0
+136,SPY×FAMILY,10,4.9,https://www.mangazenkan.com/items/10724727/,img/portadas/001_スパイファミリー SPYFAMILY.jpg,1,15,8228.0
+137,Jujutsu Kaisen,10,4.82,https://www.mangazenkan.com/items/10713354/,img/portadas/002_呪術廻戦.jpg,1,2,1540.0
+138,Tokyo Revengers,10,4.89,https://www.mangazenkan.com/items/10461379/,img/portadas/003_東京卍リベンジャーズ.jpg,1,3,2893.0
+139,Slam Dunk (Nueva edición recopilatoria),10,5.0,https://www.mangazenkan.com/items/10582804/,img/portadas/004_スラムダンク SLAM DUNK 新装再編版.jpg,1,1,1980.0
+140,Golden Kamuy,10,4.64,https://www.mangazenkan.com/items/10236737/,img/portadas/005_ゴールデンカムイ.jpg,1,1,1100.0
+141,No lo llames misterio (Mystery to Iu Nakare),10,4.5,https://www.mangazenkan.com/items/10540354/,img/portadas/006_ミステリと言う勿れ.jpg,1,15,8470.0
+142,Demon Slayer (Kimetsu no Yaiba),10,4.78,https://www.mangazenkan.com/items/10360560/,img/portadas/007_鬼滅の刃.jpg,1,1,484.0
+143,Ao Ashi (con edición especial),10,4.6,https://www.mangazenkan.com/items/10261133/,img/portadas/008_特典ありアオアシ.jpg,1,39,30074.0
+144,My Dress-Up Darling (con edición especial),10,5.0,https://www.mangazenkan.com/items/10642721/,img/portadas/009_特典ありその着せ替え人形は恋をする.jpg,1,14,10780.0
+145,Haikyuu!!,10,4.85,https://www.mangazenkan.com/items/102246/,img/portadas/010_ハイキュー.jpg,1,13,11700.0
+146,My Hero Academia (Boku no Hero Academia),10,4.63,https://www.mangazenkan.com/items/10221277/,img/portadas/011_僕のヒーローアカデミア.jpg,1,8,4136.0
+147,The Fable (con caja de colección),10,5.0,https://www.mangazenkan.com/items/10876935/,img/portadas/012_ザファブル  南勝久先生描き下ろし第一部全巻収納BOX付.jpg,1,22,18392.0
+148,Ataque de los Titanes (con caja especial),10,4.5,https://www.mangazenkan.com/items/11047588/,img/portadas/013_進撃の巨人  オリジナル収納BOX付セット.jpg,1,34,20317.0
+149,One Piece,10,4.8,https://www.mangazenkan.com/items/169/,img/portadas/014_ワンピース ONE PIECE.jpg,1,1,484.0
+150,Chainsaw Man,10,4.58,https://www.mangazenkan.com/items/10679487/,img/portadas/015_チェンソーマン.jpg,1,20,10164.0
+151,Slam Dunk (Nueva edición recopilatoria),11,5.0,https://www.mangazenkan.com/items/10582804/,img/portadas/001_スラムダンク SLAM DUNK 新装再編版.jpg,1,1,1980.0
+152,Blue Lock,11,5.0,https://www.mangazenkan.com/items/10639801/,img/portadas/002_ブルーロック.jpg,1,33,19206.0
+153,Slam Dunk: 10 Días Después (After 10 Days),11,4.5,https://www.mangazenkan.com/items/4492/,img/portadas/003_スラムダンク あれから10日後.jpg,1,1,2096.0
+154,Oshi no Ko,11,0.0,https://www.mangazenkan.com/items/10897866/,img/portadas/004_推しの子.jpg,1,16,11704.0
+155,Jujutsu Kaisen,11,4.82,https://www.mangazenkan.com/items/10713354/,img/portadas/005_呪術廻戦.jpg,1,2,1540.0
+156,Tokyo Revengers,11,4.75,https://www.mangazenkan.com/items/11522046/,img/portadas/006_東京卍リベンジャーズ.jpg,1,31,16038.0
+157,Slam Dunk,11,4.89,https://www.mangazenkan.com/items/167/,img/portadas/007_スラムダンクSLAMDUNK.jpg,1,1,1980.0
+158,Frieren: Más allá del viaje (edición especial),11,5.0,https://www.mangazenkan.com/items/11832892/,img/portadas/008_特典あり葬送のフリーレン.jpg,1,14,8371.0
+159,Yamada-kun to Lv999 no Koi wo Suru (edición especial),11,5.0,https://www.mangazenkan.com/items/11592612/,img/portadas/009_特典あり山田くんとLv999の恋をする.jpg,1,10,7260.0
+160,Bungou Stray Dogs (con caja original),11,0.0,https://www.mangazenkan.com/items/11512721/,img/portadas/010_文豪ストレイドッグス  オリジナル収納BOX付セット.jpg,1,26,19448.0
+161,Slam Dunk Illustrations PLUS,11,0.0,https://www.mangazenkan.com/items/10771937/,img/portadas/011_スラムダンク PLUS  SLAM DUNK ILLUSTRATIONS.jpg,1,20,13255.0
+162,Ataque de los Titanes (con caja especial),11,4.5,https://www.mangazenkan.com/items/11047588/,img/portadas/012_進撃の巨人  オリジナル収納BOX付セット.jpg,1,34,20317.0
+163,No lo llames misterio (Mystery to Iu Nakare),11,4.5,https://www.mangazenkan.com/items/11727036/,img/portadas/013_ミステリと言う勿れ.jpg,1,2,1496.0
+164,Bocchi the Rock! (ed. especial con posavasos),11,0.0,https://www.mangazenkan.com/items/11756777/,img/portadas/014_特典ありぼっちざろっく 有償特典アクリルコースター2種.jpg,1,7,6686.0
+165,¡Bienvenido al aula demoníaca! (Mairimashita! Iruma-kun),11,5.0,https://www.mangazenkan.com/items/10875689/,img/portadas/015_魔入りました入間くん   西修先生描き下ろし収納BOX付.jpg,1,43,25410.0
+166,Frieren: Más allá del viaje,12,4.0,https://www.mangazenkan.com/items/10911177/,img/portadas/001_葬送のフリーレン.jpg,1,14,8371.0
+167,Haikyuu!!,12,4.85,https://www.mangazenkan.com/items/102246/,img/portadas/002_ハイキュー.jpg,1,13,11700.0
+168,The Apothecary Diaries (Kusuriya no Hitorigoto),12,4.8,https://www.mangazenkan.com/items/10503388/,img/portadas/003_薬屋のひとりごと.jpg,1,15,11550.0
+169,Slam Dunk (Nueva edición recopilatoria),12,5.0,https://www.mangazenkan.com/items/10582804/,img/portadas/004_スラムダンク SLAM DUNK 新装再編版.jpg,1,1,1980.0
+170,The Apothecary Diaries (Kusuriya no Hitorigoto),12,0.0,https://www.mangazenkan.com/items/10208289/,img/portadas/005_薬屋のひとりごと.jpg,1,15,11550.0
+171,El cuento de Genji (Asaki Yumemishi),12,4.0,https://www.mangazenkan.com/items/983/,img/portadas/006_あさきゆめみし.jpg,1,7,4895.0
+172,Mashle,12,5.0,https://www.mangazenkan.com/items/10876959/,img/portadas/007_マッシュルMASHLE.jpg,1,18,8954.0
+173,Cells at Work! (Hataraku Saibou),12,4.25,https://www.mangazenkan.com/items/10278788/,img/portadas/008_はたらく細胞.jpg,1,1,1045.0
+174,Jujutsu Kaisen,12,4.82,https://www.mangazenkan.com/items/10713354/,img/portadas/009_呪術廻戦.jpg,1,2,1540.0
+175,Kaiju No. 8,12,0.0,https://www.mangazenkan.com/items/10967404/,img/portadas/010_怪獣8号.jpg,1,15,8404.0
+176,My Hero Academia (Boku no Hero Academia),12,4.63,https://www.mangazenkan.com/items/10221277/,img/portadas/011_僕のヒーローアカデミア.jpg,1,8,4136.0
+177,La Caja Azul (Ao no Hako),12,0.0,https://www.mangazenkan.com/items/11107896/,img/portadas/012_アオのハコ.jpg,1,20,10472.0
+178,Wind Breaker,12,0.0,https://www.mangazenkan.com/items/11046541/,img/portadas/013_ウィンドブレイカー WIND BREAKER.jpg,1,21,12474.0
+179,¡Atrápalo! Rikadaman (Tsukame! Rika-daman),12,0.0,https://www.mangazenkan.com/items/11250797/,img/portadas/014_つかめ 理科ダマン.jpg,1,9,11700.0
+180,Haikyuu!! 10th Chronicle,12,0.0,https://www.mangazenkan.com/items/11410753/,img/portadas/015_ハイキュー 10thクロニクル.jpg,1,45,21802.0
+181,Kingdom,1,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/001_キングダム.jpg,1,1,564.0
+182,Ataque de los Titanes,1,4.5,https://www.mangazenkan.com/items/10042854/,img/portadas/002_進撃の巨人.jpg,1,1,594.0
+183,One Piece,1,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/003_ONE PIECE.jpg,1,1,459.0
+184,Hunter × Hunter,1,4.68,https://www.mangazenkan.com/items/10051608/,img/portadas/004_HUNTERHUNTER.jpg,1,1,459.0
+185,One Piece (Versión a color),1,4.8,https://www.mangazenkan.com/items/10043701/,img/portadas/005_ONE PIECE カラー版.jpg,1,1,518.0
+186,GANTZ,1,3.67,https://www.mangazenkan.com/items/10054259/,img/portadas/006_GANTZ.jpg,1,1,617.0
+187,JoJo's Bizarre Adventure: Steel Ball Run,1,5.0,https://www.mangazenkan.com/items/10043646/,img/portadas/007_ジョジョの奇妙な冒険 スティールボールラン.jpg,1,1,459.0
+188,Kuroko no Basket,1,4.43,https://www.mangazenkan.com/items/10043614/,img/portadas/008_黒子のバスケ.jpg,1,1,459.0
+189,Hermanos del Espacio (Uchuu Kyoudai),1,4.45,https://www.mangazenkan.com/items/10040854/,img/portadas/009_宇宙兄弟.jpg,1,1,836.0
+190,El Silencioso Don (Shizuka Naru Don),1,4.0,https://www.mangazenkan.com/items/10040885/,img/portadas/010_静かなるドン.jpg,1,1,495.0
+191,Yowamushi Pedal,1,4.69,https://www.mangazenkan.com/items/10040907/,img/portadas/011_弱虫ペダル.jpg,1,1,528.0
+192,Ace of Diamond (Daiya no A),1,4.2,https://www.mangazenkan.com/items/10040929/,img/portadas/012_ダイヤのA.jpg,1,1,594.0
+193,Dragon Ball,1,4.5,https://www.mangazenkan.com/items/10043661/,img/portadas/013_DRAGON BALL.jpg,1,1,459.0
+194,Naruto,1,4.57,https://www.mangazenkan.com/items/10043621/,img/portadas/014_NARUTOナルト.jpg,1,1,543.0
+195,Baki,1,4.0,https://www.mangazenkan.com/items/10041454/,img/portadas/015_バキ.jpg,1,1,0.0
+196,Yowamushi Pedal,2,4.69,https://www.mangazenkan.com/items/10040907/,img/portadas/001_弱虫ペダル.jpg,1,1,528.0
+197,Kingdom,2,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/002_キングダム.jpg,1,1,564.0
+198,Ataque de los Titanes,2,4.5,https://www.mangazenkan.com/items/10042854/,img/portadas/003_進撃の巨人.jpg,1,1,594.0
+199,Tokyo Ghoul,2,4.38,https://www.mangazenkan.com/items/10092582/,img/portadas/004_東京喰種トーキョーグール.jpg,1,1,564.0
+200,Naruto,2,4.57,https://www.mangazenkan.com/items/10043621/,img/portadas/005_NARUTOナルト.jpg,1,1,543.0
+201,Baby Steps,2,5.0,https://www.mangazenkan.com/items/10041203/,img/portadas/006_ベイビーステップ.jpg,1,1,594.0
+202,"Ushijima, el prestamista de la oscuridad",2,4.5,https://www.mangazenkan.com/items/10110754/,img/portadas/007_闇金ウシジマくん.jpg,1,1,693.0
+203,One Piece,2,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/008_ONE PIECE.jpg,1,1,459.0
+204,Kuroko no Basket,2,4.43,https://www.mangazenkan.com/items/10043614/,img/portadas/009_黒子のバスケ.jpg,1,1,459.0
+205,Terra Formars,2,4.29,https://www.mangazenkan.com/items/10070575/,img/portadas/010_テラフォーマーズ.jpg,1,1,731.0
+206,Hunter × Hunter,2,4.68,https://www.mangazenkan.com/items/10051608/,img/portadas/011_HUNTERHUNTER.jpg,1,1,459.0
+207,El Canto del Topo (Mogura no Uta),2,5.0,https://www.mangazenkan.com/items/10084682/,img/portadas/012_土竜の唄.jpg,1,1,693.0
+208,Ace of Diamond (Daiya no A),2,4.2,https://www.mangazenkan.com/items/10040929/,img/portadas/013_ダイヤのA.jpg,1,1,594.0
+209,Baki Hanma (Hanma Baki),2,3.5,https://www.mangazenkan.com/items/10042524/,img/portadas/014_範馬刃牙.jpg,1,1,0.0
+210,One Piece (Versión a color),2,4.8,https://www.mangazenkan.com/items/10043701/,img/portadas/015_ONE PIECE カラー版.jpg,1,1,518.0
+211,Kingdom,3,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/001_キングダム.jpg,1,1,564.0
+212,Naruto,3,4.57,https://www.mangazenkan.com/items/10043621/,img/portadas/002_NARUTOナルト.jpg,1,1,543.0
+213,One Piece,3,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/003_ONE PIECE.jpg,1,1,459.0
+214,Ataque de los Titanes,3,4.5,https://www.mangazenkan.com/items/10042854/,img/portadas/004_進撃の巨人.jpg,1,1,594.0
+215,Prison School (Kangoku Gakuen),3,4.25,https://www.mangazenkan.com/items/10060163/,img/portadas/005_監獄学園.jpg,1,1,792.0
+216,Shinjuku Swan,3,4.33,https://www.mangazenkan.com/items/10041229/,img/portadas/006_新宿スワン.jpg,1,1,792.0
+217,Naruto (Versión a color),3,4.57,https://www.mangazenkan.com/items/10043656/,img/portadas/007_NARUTOナルト カラー版.jpg,1,1,653.0
+218,Yowamushi Pedal,3,4.69,https://www.mangazenkan.com/items/10040907/,img/portadas/008_弱虫ペダル.jpg,1,1,528.0
+219,Ace of Diamond (Daiya no A),3,4.2,https://www.mangazenkan.com/items/10040929/,img/portadas/009_ダイヤのA.jpg,1,1,594.0
+220,Baby Steps,3,5.0,https://www.mangazenkan.com/items/10041203/,img/portadas/010_ベイビーステップ.jpg,1,1,594.0
+221,Los Siete Pecados Capitales (Nanatsu no Taizai),3,4.12,https://www.mangazenkan.com/items/10085805/,img/portadas/011_七つの大罪.jpg,1,1,594.0
+222,Bleach,3,4.47,https://www.mangazenkan.com/items/10043611/,img/portadas/012_BLEACH.jpg,1,1,459.0
+223,Ushio y Tora,3,4.5,https://www.mangazenkan.com/items/10083144/,img/portadas/013_うしおととら.jpg,1,1,583.0
+224,One Piece (Versión a color),3,4.8,https://www.mangazenkan.com/items/10043701/,img/portadas/014_ONE PIECE カラー版.jpg,1,1,518.0
+225,Terra Formars,3,4.29,https://www.mangazenkan.com/items/10070575/,img/portadas/015_テラフォーマーズ.jpg,1,1,731.0
+226,Kingdom,4,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/001_キングダム.jpg,1,1,564.0
+227,Bonobono,4,4.5,https://www.mangazenkan.com/items/10097296/,img/portadas/002_ぼのぼの.jpg,1,1,990.0
+228,Chihayafuru,4,4.56,https://www.mangazenkan.com/items/10041752/,img/portadas/003_ちはやふる.jpg,1,1,594.0
+229,Bleach,4,4.47,https://www.mangazenkan.com/items/10043611/,img/portadas/004_BLEACH.jpg,1,1,459.0
+230,One Piece,4,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/005_ONE PIECE.jpg,1,1,459.0
+231,Terra Formars,4,4.29,https://www.mangazenkan.com/items/10070575/,img/portadas/006_テラフォーマーズ.jpg,1,1,731.0
+232,DAYS,4,3.5,https://www.mangazenkan.com/items/10156840/,img/portadas/007_DAYS.jpg,1,1,594.0
+233,Ataque de los Titanes,4,4.5,https://www.mangazenkan.com/items/10042854/,img/portadas/008_進撃の巨人.jpg,1,1,594.0
+234,Un Buen Doctor para Blackjack,4,4.0,https://www.mangazenkan.com/items/10077686/,img/portadas/009_ブラックジャックによろしく.jpg,1,1,100.0
+235,"Ushijima, el prestamista de la oscuridad",4,4.5,https://www.mangazenkan.com/items/10110754/,img/portadas/010_闇金ウシジマくん.jpg,1,1,693.0
+236,Giant Killing,4,4.5,https://www.mangazenkan.com/items/10041460/,img/portadas/011_GIANT KILLING.jpg,1,1,836.0
+237,Prison School (Kangoku Gakuen),4,4.25,https://www.mangazenkan.com/items/10060163/,img/portadas/012_監獄学園.jpg,1,1,792.0
+238,Los Siete Pecados Capitales (Nanatsu no Taizai),4,4.12,https://www.mangazenkan.com/items/10085805/,img/portadas/013_七つの大罪.jpg,1,1,594.0
+239,Berserk,4,4.86,https://www.mangazenkan.com/items/10046068/,img/portadas/014_ベルセルク.jpg,1,1,715.0
+240,Hunter × Hunter,4,4.68,https://www.mangazenkan.com/items/10051608/,img/portadas/015_HUNTERHUNTER.jpg,1,1,459.0
+241,Kingdom,5,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/001_キングダム.jpg,1,1,564.0
+242,Ataque de los Titanes,5,4.5,https://www.mangazenkan.com/items/10042854/,img/portadas/002_進撃の巨人.jpg,1,1,594.0
+243,One Piece,5,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/003_ONE PIECE.jpg,1,1,459.0
+244,Fairy Tail,5,4.42,https://www.mangazenkan.com/items/10041202/,img/portadas/004_FAIRY TAIL.jpg,1,1,594.0
+245,Los Siete Pecados Capitales (Nanatsu no Taizai),5,4.12,https://www.mangazenkan.com/items/10085805/,img/portadas/005_七つの大罪.jpg,1,1,594.0
+246,My Hero Academia (Boku no Hero Academia),5,4.63,https://www.mangazenkan.com/items/10234462/,img/portadas/006_僕のヒーローアカデミア.jpg,1,1,459.0
+247,Tokyo Ghoul:re,5,4.0,https://www.mangazenkan.com/items/10251433/,img/portadas/007_東京喰種トーキョーグールre.jpg,1,1,564.0
+248,Naruto,5,4.57,https://www.mangazenkan.com/items/10043621/,img/portadas/008_NARUTOナルト.jpg,1,1,543.0
+249,Fullmetal Alchemist,5,4.86,https://www.mangazenkan.com/items/10041118/,img/portadas/009_鋼の錬金術師.jpg,1,1,589.0
+250,Hunter × Hunter,5,4.68,https://www.mangazenkan.com/items/10051608/,img/portadas/010_HUNTERHUNTER.jpg,1,1,459.0
+251,Yowamushi Pedal,5,4.69,https://www.mangazenkan.com/items/10040907/,img/portadas/011_弱虫ペダル.jpg,1,1,528.0
+252,Detective Conan,5,5.0,https://www.mangazenkan.com/items/10083097/,img/portadas/012_名探偵コナン.jpg,1,1,583.0
+253,Baby Steps,5,5.0,https://www.mangazenkan.com/items/10041203/,img/portadas/013_ベイビーステップ.jpg,1,1,594.0
+254,"Ushijima, el prestamista de la oscuridad",5,4.5,https://www.mangazenkan.com/items/10110754/,img/portadas/014_闇金ウシジマくん.jpg,1,1,693.0
+255,Haikyuu!!,5,4.85,https://www.mangazenkan.com/items/10043738/,img/portadas/015_ハイキュー.jpg,1,1,459.0
+256,Kingdom,6,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/001_キングダム.jpg,1,1,564.0
+257,One Piece,6,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/002_ONE PIECE.jpg,1,1,459.0
+258,Hunter × Hunter,6,4.68,https://www.mangazenkan.com/items/10051608/,img/portadas/003_HUNTERHUNTER.jpg,1,1,459.0
+259,Ataque de los Titanes,6,4.5,https://www.mangazenkan.com/items/10042854/,img/portadas/004_進撃の巨人.jpg,1,1,594.0
+260,Los Siete Pecados Capitales (Nanatsu no Taizai),6,4.12,https://www.mangazenkan.com/items/10085805/,img/portadas/005_七つの大罪.jpg,1,1,594.0
+261,My Hero Academia (Boku no Hero Academia),6,4.63,https://www.mangazenkan.com/items/10234462/,img/portadas/006_僕のヒーローアカデミア.jpg,1,1,459.0
+262,¡Desde hoy soy yo! (Kyou kara Ore wa!!),6,4.33,https://www.mangazenkan.com/items/10197536/,img/portadas/007_今日から俺は.jpg,1,1,0.0
+263,That Time I Got Reincarnated as a Slime,6,0.0,https://www.mangazenkan.com/items/10357699/,img/portadas/008_転生したらスライムだった件.jpg,1,1,792.0
+264,Golden Kamuy,6,4.64,https://www.mangazenkan.com/items/10251416/,img/portadas/009_ゴールデンカムイ.jpg,1,1,564.0
+265,Gintama,6,4.53,https://www.mangazenkan.com/items/10043622/,img/portadas/010_銀魂.jpg,1,1,459.0
+266,Bleach,6,4.47,https://www.mangazenkan.com/items/10043611/,img/portadas/011_BLEACH.jpg,1,1,459.0
+267,Chihayafuru,6,4.56,https://www.mangazenkan.com/items/10041752/,img/portadas/012_ちはやふる.jpg,1,1,594.0
+268,Haikyuu!!,6,4.85,https://www.mangazenkan.com/items/10043738/,img/portadas/013_ハイキュー.jpg,1,1,459.0
+269,Giant Killing,6,4.5,https://www.mangazenkan.com/items/10041460/,img/portadas/014_GIANT KILLING.jpg,1,1,836.0
+270,Tokyo Ghoul:re,6,4.0,https://www.mangazenkan.com/items/10251433/,img/portadas/015_東京喰種トーキョーグールre.jpg,1,1,564.0
+271,Kingdom,7,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/001_キングダム.jpg,1,1,564.0
+272,Demon Slayer (Kimetsu no Yaiba),7,4.78,https://www.mangazenkan.com/items/10380756/,img/portadas/002_鬼滅の刃.jpg,1,1,459.0
+273,Ataque de los Titanes,7,4.5,https://www.mangazenkan.com/items/10042854/,img/portadas/003_進撃の巨人.jpg,1,1,594.0
+274,One Piece,7,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/004_ONE PIECE.jpg,1,1,459.0
+275,The Fable,7,4.67,https://www.mangazenkan.com/items/10277933/,img/portadas/005_ザファブル.jpg,1,1,869.0
+276,Fire Force (En'en no Shouboutai),7,4.78,https://www.mangazenkan.com/items/10348528/,img/portadas/006_炎炎ノ消防隊.jpg,1,1,594.0
+277,The Promised Neverland,7,4.58,https://www.mangazenkan.com/items/10434302/,img/portadas/007_約束のネバーランド.jpg,1,1,459.0
+278,Domestic Girlfriend (Domestic na Kanojo),7,4.22,https://www.mangazenkan.com/items/10211732/,img/portadas/008_ドメスティックな彼女.jpg,1,1,594.0
+279,Las Quintillizas (Go-Toubun no Hanayome),7,4.67,https://www.mangazenkan.com/items/10530555/,img/portadas/009_五等分の花嫁.jpg,1,1,594.0
+280,One Punch Man,7,4.43,https://www.mangazenkan.com/items/10360813/,img/portadas/010_ワンパンマン.jpg,1,1,459.0
+281,Los Siete Pecados Capitales (Nanatsu no Taizai),7,4.12,https://www.mangazenkan.com/items/10085805/,img/portadas/011_七つの大罪.jpg,1,1,594.0
+282,My Hero Academia (Boku no Hero Academia),7,4.63,https://www.mangazenkan.com/items/10234462/,img/portadas/012_僕のヒーローアカデミア.jpg,1,1,459.0
+283,Haikyuu!!,7,4.85,https://www.mangazenkan.com/items/10043738/,img/portadas/013_ハイキュー.jpg,1,1,459.0
+284,Hermanos del Espacio (Uchuu Kyoudai),7,4.45,https://www.mangazenkan.com/items/10040854/,img/portadas/014_宇宙兄弟.jpg,1,1,836.0
+285,That Time I Got Reincarnated as a Slime,7,0.0,https://www.mangazenkan.com/items/10357699/,img/portadas/015_転生したらスライムだった件.jpg,1,1,792.0
+286,Demon Slayer (Kimetsu no Yaiba),8,4.78,https://www.mangazenkan.com/items/10380756/,img/portadas/001_鬼滅の刃.jpg,1,1,459.0
+287,Kingdom,8,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/002_キングダム.jpg,1,1,564.0
+288,One Piece,8,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/003_ONE PIECE.jpg,1,1,459.0
+289,Haikyuu!!,8,4.85,https://www.mangazenkan.com/items/10043738/,img/portadas/004_ハイキュー.jpg,1,1,459.0
+290,Ataque de los Titanes,8,4.5,https://www.mangazenkan.com/items/10042854/,img/portadas/005_進撃の巨人.jpg,1,1,594.0
+291,The Promised Neverland,8,4.58,https://www.mangazenkan.com/items/10434302/,img/portadas/006_約束のネバーランド.jpg,1,1,459.0
+292,My Hero Academia (Boku no Hero Academia),8,4.63,https://www.mangazenkan.com/items/10234462/,img/portadas/007_僕のヒーローアカデミア.jpg,1,1,459.0
+293,Jujutsu Kaisen,8,4.82,https://www.mangazenkan.com/items/10614996/,img/portadas/008_呪術廻戦.jpg,1,1,459.0
+294,Fire Force (En'en no Shouboutai),8,4.78,https://www.mangazenkan.com/items/10348528/,img/portadas/009_炎炎ノ消防隊.jpg,1,1,594.0
+295,Bleach,8,4.47,https://www.mangazenkan.com/items/10043611/,img/portadas/010_BLEACH.jpg,1,1,459.0
+296,The Fable,8,4.67,https://www.mangazenkan.com/items/10277933/,img/portadas/011_ザファブル.jpg,1,1,869.0
+297,Los Siete Pecados Capitales (Nanatsu no Taizai),8,4.12,https://www.mangazenkan.com/items/10085805/,img/portadas/012_七つの大罪.jpg,1,1,594.0
+298,Yowamushi Pedal,8,4.69,https://www.mangazenkan.com/items/10040907/,img/portadas/013_弱虫ペダル.jpg,1,1,528.0
+299,DAYS,8,3.5,https://www.mangazenkan.com/items/10156840/,img/portadas/014_DAYS.jpg,1,1,594.0
+300,Ao Ashi,8,4.6,https://www.mangazenkan.com/items/10290942/,img/portadas/015_アオアシ.jpg,1,1,759.0
+301,Jujutsu Kaisen,9,4.82,https://www.mangazenkan.com/items/10614996/,img/portadas/001_呪術廻戦.jpg,1,1,459.0
+302,Tokyo Revengers,9,4.75,https://www.mangazenkan.com/items/10484627/,img/portadas/002_東京卍リベンジャーズ.jpg,1,1,594.0
+303,Demon Slayer (Kimetsu no Yaiba),9,4.78,https://www.mangazenkan.com/items/10380756/,img/portadas/003_鬼滅の刃.jpg,1,1,459.0
+304,Frieren: Más allá del viaje,9,5.0,https://www.mangazenkan.com/items/10941937/,img/portadas/004_葬送のフリーレン.jpg,1,1,583.0
+305,No lo llames misterio (Mystery to Iu Nakare),9,4.5,https://www.mangazenkan.com/items/10581042/,img/portadas/005_ミステリと言う勿れ.jpg,1,1,583.0
+306,Chainsaw Man,9,4.58,https://www.mangazenkan.com/items/10702082/,img/portadas/006_チェンソーマン.jpg,1,1,459.0
+307,Kaiju No. 8,9,0.0,https://www.mangazenkan.com/items/11013317/,img/portadas/007_怪獣8号.jpg,1,1,501.0
+308,Record of Ragnarok (Shuumatsu no Walküre),9,4.75,https://www.mangazenkan.com/items/10620202/,img/portadas/008_終末のワルキューレ.jpg,1,1,726.0
+309,Ataque de los Titanes,9,4.5,https://www.mangazenkan.com/items/10042854/,img/portadas/009_進撃の巨人.jpg,1,1,594.0
+310,SPY×FAMILY,9,4.9,https://www.mangazenkan.com/items/10761563/,img/portadas/010_SPYFAMILY.jpg,1,1,501.0
+311,Demon Slayer Fanbook: Kisatsutai Kenbunroku,9,4.25,https://www.mangazenkan.com/items/10998950/,img/portadas/011_鬼滅の刃公式ファンブック 鬼殺隊見聞録.jpg,1,1,940.0
+312,The Promised Neverland,9,4.58,https://www.mangazenkan.com/items/10434302/,img/portadas/012_約束のネバーランド.jpg,1,1,459.0
+313,My Hero Academia (Boku no Hero Academia),9,4.63,https://www.mangazenkan.com/items/10234462/,img/portadas/013_僕のヒーローアカデミア.jpg,1,1,459.0
+314,Chi: Sobre el movimiento de la Tierra,9,0.0,https://www.mangazenkan.com/items/10986961/,img/portadas/014_チ地球の運動について.jpg,1,1,759.0
+315,That Time I Got Reincarnated as a Slime,9,0.0,https://www.mangazenkan.com/items/10357699/,img/portadas/015_転生したらスライムだった件.jpg,1,1,792.0
+316,One Piece,10,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/001_ONE PIECE.jpg,1,1,459.0
+317,Tokyo Revengers,10,4.75,https://www.mangazenkan.com/items/10484627/,img/portadas/002_東京卍リベンジャーズ.jpg,1,1,594.0
+318,Kingdom,10,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/003_キングダム.jpg,1,1,564.0
+319,Jujutsu Kaisen,10,4.82,https://www.mangazenkan.com/items/10614996/,img/portadas/004_呪術廻戦.jpg,1,1,459.0
+320,Ao Ashi,10,4.6,https://www.mangazenkan.com/items/10290942/,img/portadas/005_アオアシ.jpg,1,1,759.0
+321,SPY×FAMILY,10,4.9,https://www.mangazenkan.com/items/10761563/,img/portadas/006_SPYFAMILY.jpg,1,1,501.0
+322,My Hero Academia (Boku no Hero Academia),10,4.63,https://www.mangazenkan.com/items/10234462/,img/portadas/007_僕のヒーローアカデミア.jpg,1,1,459.0
+323,Golden Kamuy,10,4.64,https://www.mangazenkan.com/items/10251416/,img/portadas/008_ゴールデンカムイ.jpg,1,1,564.0
+324,Blue Lock,10,5.0,https://www.mangazenkan.com/items/10662217/,img/portadas/009_ブルーロック.jpg,1,1,594.0
+325,Chainsaw Man,10,4.58,https://www.mangazenkan.com/items/10702082/,img/portadas/010_チェンソーマン.jpg,1,1,459.0
+326,One Piece (Versión a color),10,4.8,https://www.mangazenkan.com/items/10043701/,img/portadas/011_ONE PIECE カラー版.jpg,1,1,518.0
+327,Haikyuu!!,10,4.85,https://www.mangazenkan.com/items/10043738/,img/portadas/012_ハイキュー.jpg,1,1,459.0
+328,Hunter × Hunter,10,4.68,https://www.mangazenkan.com/items/10051608/,img/portadas/013_HUNTERHUNTER.jpg,1,1,459.0
+329,One Punch Man,10,4.43,https://www.mangazenkan.com/items/10360813/,img/portadas/014_ワンパンマン.jpg,1,1,459.0
+330,Hajime no Ippo,10,4.8,https://www.mangazenkan.com/items/10041765/,img/portadas/015_はじめの一歩.jpg,1,1,594.0
+331,Kingdom,11,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/001_キングダム.jpg,1,1,564.0
+332,Jujutsu Kaisen,11,4.82,https://www.mangazenkan.com/items/10614996/,img/portadas/002_呪術廻戦.jpg,1,1,459.0
+333,Blue Lock,11,5.0,https://www.mangazenkan.com/items/10662217/,img/portadas/003_ブルーロック.jpg,1,1,594.0
+334,One Piece,11,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/004_ONE PIECE.jpg,1,1,459.0
+335,Oshi no Ko,11,0.0,https://www.mangazenkan.com/items/10941925/,img/portadas/005_推しの子.jpg,1,1,658.0
+336,My Hero Academia (Boku no Hero Academia),11,4.63,https://www.mangazenkan.com/items/10234462/,img/portadas/006_僕のヒーローアカデミア.jpg,1,1,459.0
+337,Tokyo Revengers,11,4.75,https://www.mangazenkan.com/items/10484627/,img/portadas/007_東京卍リベンジャーズ.jpg,1,1,594.0
+338,Frieren: Más allá del viaje,11,5.0,https://www.mangazenkan.com/items/10941937/,img/portadas/008_葬送のフリーレン.jpg,1,1,583.0
+339,Chainsaw Man,11,4.58,https://www.mangazenkan.com/items/10702082/,img/portadas/009_チェンソーマン.jpg,1,1,459.0
+340,Hajime no Ippo,11,4.8,https://www.mangazenkan.com/items/10041765/,img/portadas/010_はじめの一歩.jpg,1,1,594.0
+341,The Fable: The Second Contact,11,4.0,https://www.mangazenkan.com/items/11234225/,img/portadas/011_ザファブル The second contact.jpg,1,1,792.0
+342,The Apothecary Diaries (Kusuriya no Hitorigoto),11,4.0,https://www.mangazenkan.com/items/10551056/,img/portadas/012_薬屋のひとりごと.jpg,1,1,770.0
+343,Ao Ashi,11,4.6,https://www.mangazenkan.com/items/10290942/,img/portadas/013_アオアシ.jpg,1,1,759.0
+344,That Time I Got Reincarnated as a Slime,11,0.0,https://www.mangazenkan.com/items/10357699/,img/portadas/014_転生したらスライムだった件.jpg,1,1,792.0
+345,Hell’s Paradise (Jigokuraku),11,4.0,https://www.mangazenkan.com/items/10583632/,img/portadas/015_地獄楽.jpg,1,1,459.0
+346,Kingdom,12,4.92,https://www.mangazenkan.com/items/10043626/,img/portadas/001_キングダム.jpg,1,1,564.0
+347,Jujutsu Kaisen,12,4.82,https://www.mangazenkan.com/items/10614996/,img/portadas/002_呪術廻戦.jpg,1,1,459.0
+348,My Hero Academia (Boku no Hero Academia),12,4.63,https://www.mangazenkan.com/items/10234462/,img/portadas/003_僕のヒーローアカデミア.jpg,1,1,459.0
+349,Haikyuu!!,12,4.85,https://www.mangazenkan.com/items/10043738/,img/portadas/004_ハイキュー.jpg,1,1,459.0
+350,Blue Lock,12,5.0,https://www.mangazenkan.com/items/10662217/,img/portadas/005_ブルーロック.jpg,1,1,594.0
+351,One Piece,12,4.8,https://www.mangazenkan.com/items/10043628/,img/portadas/006_ONE PIECE.jpg,1,1,459.0
+352,That Time I Got Reincarnated as a Slime,12,0.0,https://www.mangazenkan.com/items/10357699/,img/portadas/007_転生したらスライムだった件.jpg,1,1,792.0
+353,Kaiju No. 8,12,0.0,https://www.mangazenkan.com/items/11013317/,img/portadas/008_怪獣8号.jpg,1,1,501.0
+354,Frieren: Más allá del viaje,12,5.0,https://www.mangazenkan.com/items/10941937/,img/portadas/009_葬送のフリーレン.jpg,1,1,583.0
+355,Dandadan,12,0.0,https://www.mangazenkan.com/items/11146830/,img/portadas/010_ダンダダン.jpg,1,1,501.0
+356,Mashle,12,5.0,https://www.mangazenkan.com/items/10905476/,img/portadas/011_マッシュルMASHLE.jpg,1,1,459.0
+357,Ao Ashi,12,4.6,https://www.mangazenkan.com/items/10290942/,img/portadas/012_アオアシ.jpg,1,1,759.0
+358,Solo Leveling,12,5.0,https://www.mangazenkan.com/items/10838992/,img/portadas/013_俺だけレベルアップな件.jpg,1,1,1012.0
+359,Golden Kamuy,12,4.64,https://www.mangazenkan.com/items/10251416/,img/portadas/014_ゴールデンカムイ.jpg,1,1,564.0
+360,Hajime no Ippo,12,4.8,https://www.mangazenkan.com/items/10041765/,img/portadas/015_はじめの一歩.jpg,1,1,594.0

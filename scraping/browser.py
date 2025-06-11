@@ -17,7 +17,7 @@ def init_browser():
         browser = webdriver.Chrome(service=service, options=options)
         print("[✓] Navegador iniciado automáticamente con webdriver_manager.")
         return browser
-        #como a mi me sale un error tengo que comentar esto pero ustdes lo deben quitar para que les agarre 
+        #como a mi me sale un error tengo que comentar esto pero ustdes lo deben quitar para que les agarre
         """
     except WebDriverException as e:
         print("[!] Falló el inicio automático del navegador con webdriver_manager.")
