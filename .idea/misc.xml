@@ -3,8 +3,12 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (MangaTrends)" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (MangaTrends)" project-jdk-type="Python SDK" />
   <component name="PyCharmProfessionalAdvertiser">
     <option name="shown" value="true" />
   </component>
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (PyCharmMiscProject)" project-jdk-type="Python SDK" />
+>>>>>>> 01e979c7c8045422b2c44e81e33cc7dede6bd4fd
 </project>
