@@ -8,7 +8,7 @@ import mysql.connector
 conn = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='Juanito777.',
+    password='Contrasena.',
     database='MangaTrends'
 )
 
