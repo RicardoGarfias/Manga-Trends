@@ -4,7 +4,7 @@ import os
 # Configura tu conexión MySQL
 config = {
     'user': 'root',
-    'password': 'Juanito777.',
+    'password': 'Contrasena...',
     'host': 'localhost',
     'allow_local_infile': True
 }
